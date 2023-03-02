@@ -15,6 +15,5 @@ public class Main {
         ShapeBridge redColor = new Color(new Red());
         redColor.iShapeBridgePattern.ShapeType_IShape();
         redColor.iShapeBridgePattern.ShapeColor_IShape();
-
     }
 }
