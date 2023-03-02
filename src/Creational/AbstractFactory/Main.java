@@ -9,7 +9,6 @@ public class Main {
 
         IShape rectange = shapeFactory.getShape("Rectangle");
         rectange.drawShape();
-//dhslkdjfkjkjsdkfjlskdf
         IShape triangle = shapeFactory.getShape("Triangle");
         triangle.drawShape();
     }
