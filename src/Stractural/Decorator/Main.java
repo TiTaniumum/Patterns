@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Circle with normal border ...");
         circle.DrawShape();
 
-        System.out.println("cicle with red border....");
+        System.out.println("Circle with red border....");
         redCircle.DrawShape();
 
         System.out.println(" ------------------------------------------  ");
